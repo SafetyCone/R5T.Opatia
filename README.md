@@ -1,0 +1,2 @@
+# R5T.Opatia
+A selector library for the Microsoft.Extensions.Options NuGet package version.
